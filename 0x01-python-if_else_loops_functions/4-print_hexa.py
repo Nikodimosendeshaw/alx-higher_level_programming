@@ -2,5 +2,5 @@
 #4-print_hexa.py
 
 """prints hexadecimal"""
-for i in range(0,99):
+for i in range(0, 99):
 	print("{} = {}".format(i, hex(i)))
