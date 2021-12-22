@@ -1,1 +1,1 @@
-# Project Python - Inheritance
+# Python inherance
