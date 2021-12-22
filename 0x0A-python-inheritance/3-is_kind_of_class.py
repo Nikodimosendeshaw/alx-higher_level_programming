@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 """
-this mmodule checks if the passed obj is a class or not
+this module checks if the passed
+obj is a class or not
 """
 
 
 def is_same_class(obj, a_class):
     """implementation
     
-    args:
+    Args:
         obj
         a_class
     return:
