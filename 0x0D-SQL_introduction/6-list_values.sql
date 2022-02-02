@@ -1,2 +1,2 @@
 -- 6-list_values.sql
-SELECT *FROM tables
+SELECT *FROM first_table
