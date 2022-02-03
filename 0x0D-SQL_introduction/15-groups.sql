@@ -1,2 +1,2 @@
 -- 15-groups
-SELECT score, COUNT(score) as number FROM second_table GROUP BY score HAVING number DESC;
+SELECT score, COUNT(score) AS number FROM second_table GROUP BY score ORDER BY number DESC;
